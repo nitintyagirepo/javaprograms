@@ -2,7 +2,7 @@ package core_java;
 
 public class A {
 
-	public String str = "Nitin";
+	public String str = "Nitin Tyagi";
 	
 	void display()
 	{
